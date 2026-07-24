@@ -1,4 +1,5 @@
 <!-- 문서 최상단에 추가 -->
+<html>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&family=Geist:ital,wght@0,100..900;1,100..900&display=swap">
 
 <style>
@@ -12,6 +13,8 @@
     font-family: 'Geist Mono', monospace !important;
   }
 </style>
+  
+</html>
 ```
 i don't see codes. i watch token generating.
 doing nothing as laziest person in this glove.
