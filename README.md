@@ -1,1 +1,5 @@
-**Perfectionist. AI Whippet. Time waste professionalist. ProProcrastinator™.**
+- **Perfectionist**
+- **AI Whippet**
+- **Time waste professionalist**
+- **ProProcrastinator™**
+- **Tokenmaxxer**
